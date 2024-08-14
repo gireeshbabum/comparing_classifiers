@@ -51,7 +51,7 @@ Input variables:
 Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
-Jupyter notebook :  
+Jupyter notebook :  comparing_classifiers/notebooks/comparing_classifiers.ipynb
 
 
 
